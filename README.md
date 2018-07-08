@@ -1,6 +1,6 @@
 # MaSSP 2018
-$$Math and Science Summer Camp$$
-$$(https://github.com/masspvn)$$
+Math and Science Summer Camp
+https://github.com/masspvn
 # Landmark Project
 
 ## Giới thiệu dự án
