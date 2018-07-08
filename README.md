@@ -3,7 +3,7 @@
 # Landmark Project
 
 ## Giới thiệu dự án
-Trong thời đại công nghệ đang triển theo cấp số mũ hiện nay, lượng dữ liệu ngày càng tăng nhanh cùng với đó là nhu cầu về  những thuật toán tối ưu để xử lí chúng. Landmark Project lấy cảm hứng từ ngành du lịch, tình cờ nảy sinh ý tưởng qua một tình huống: Giả sử một người khách du lịch đã tham quan địa điểm A và sau đó ông muốn đi đến những địa điểm tương tự. Landmark team đã tìm ra hướng giải quyết vấn đề này qua những kiến thức được trao dồi tự trại hè MaSSP.
+Trong thời đại công nghệ đang triển theo cấp số mũ hiện nay, lượng dữ liệu ngày càng tăng nhanh cùng với đó là nhu cầu về  những thuật toán tối ưu để xử lí chúng. Landmark Project lấy cảm hứng từ ngành du lịch, tình cờ nảy sinh ý tưởng qua một tình huống: Giả sử một người khách du lịch đã tham quan địa điểm A và sau đó ông muốn đi đến những địa điểm tương tự. Landmark team đã tìm ra hướng giải quyết vấn đề này qua những kiến thức được trau dồi tại trại hè MaSSP.
 
 ## Thành viên
 * Supervisor: Hoang De Giang.
